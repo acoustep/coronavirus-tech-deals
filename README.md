@@ -19,3 +19,7 @@ Deals related to the Coronavirus. Including services and products which help rem
 * [Blogging for business](https://ahrefs.com/academy/blogging-for-business) - **Free**
 
 ## Products
+
+## Games
+
+* [Minecraft Education Edition](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9aEp4IDUl1Btyk35gpMsipUQThDRTlET0JaVEg3VEVCMFI4Vk81VFdKNi4u) - **Free** access for schools
