@@ -15,11 +15,12 @@ Deals related to the Coronavirus. Including services and products which help rem
 
 ## Courses
 
+* [Blogging for business](https://ahrefs.com/academy/blogging-for-business) - **Free**.
 * [Digital Marketer](https://www.digitalmarketer.com/lab-plus/) - **Free** access in March.
-* [Blogging for business](https://ahrefs.com/academy/blogging-for-business) - **Free**
+* [Laracasts](https://laracasts.com) - 50% off.
 
 ## Products
 
 ## Games
 
-* [Minecraft Education Edition](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9aEp4IDUl1Btyk35gpMsipUQThDRTlET0JaVEg3VEVCMFI4Vk81VFdKNi4u) - **Free** access for schools
+* [Minecraft Education Edition](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9aEp4IDUl1Btyk35gpMsipUQThDRTlET0JaVEg3VEVCMFI4Vk81VFdKNi4u) - **Free** access for schools.
