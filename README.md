@@ -23,6 +23,8 @@ Deals related to the Coronavirus. Including services and products which help rem
 
 ## Products
 
+* [Affinity Software](https://affinity.serif.com/en-gb/supporting-the-creative-community/) - 90-day free trial and 50% discount.
+
 ## Games
 
 * [Minecraft Education Edition](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9aEp4IDUl1Btyk35gpMsipUQThDRTlET0JaVEg3VEVCMFI4Vk81VFdKNi4u) - **Free** access for schools.
