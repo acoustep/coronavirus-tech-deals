@@ -8,6 +8,7 @@ Deals related to the Coronavirus. Including services and products which help rem
 
 ## Services
 
+* [Discord](https://discordapp.com/) - Increasing live streaming and screen share limit from 10 to 50.
 * [Google Hangouts Meet Premium](https://meet.google.com) - Premium features made available at no additional cost.
 * [PukkaTeam](https://pukkateam.com) - 60 day extended trial and 6 months 50% off.
 * [Tandem.chat](https://tandem.chat/coronavirus) - **Free** for next few months.
