@@ -19,6 +19,7 @@ Deals related to the Coronavirus. Including services and products which help rem
 * [Blogging for business](https://ahrefs.com/academy/blogging-for-business) - **Free**.
 * [Digital Marketer](https://www.digitalmarketer.com/lab-plus/) - **Free** access in March.
 * [Laracasts](https://laracasts.com) - 50% off.
+* [SuperHi](https://www.notion.so/SuperHi-March-2020-Announcement-eded119417314d22b28687504796cf5e) - 30% discounts on courses.
 
 ## Products
 
